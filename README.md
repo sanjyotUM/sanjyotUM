@@ -3,7 +3,7 @@
 
 ### About
 
-I am passionate about data and using it to translate real world high impact problems into rigorous data science based solutions. 
+I am passionate about using data to translate real world high impact problems into rigorous data science based solutions. 
 I have over 4 years of experience in data science and analytics at Olacabs (Uber's largest Indian competitor).
 I did my master's in Data Science from the University of Michigan-Dearborn.
 My work mostly involved predictive modeling, non-linear large scale optimization, creating data pipelines and customer segmentation.
